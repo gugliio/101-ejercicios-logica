@@ -6,6 +6,8 @@ import (
 	"github.com/gugliio/101-ejercicios-logica/anagrama"
 	"github.com/gugliio/101-ejercicios-logica/fibonacci"
 	"github.com/gugliio/101-ejercicios-logica/fizzbuzz"
+	"github.com/gugliio/101-ejercicios-logica/poligonos"
+	"github.com/gugliio/101-ejercicios-logica/primos"
 )
 
 func main() {
@@ -17,4 +19,10 @@ func main() {
 
 	fmt.Println("Reto 03 - Fibonacci")
 	fibonacci.Execute()
+
+	fmt.Println("Reto 04 - Numeros Primos")
+	primos.Execute(3)
+
+	fmt.Println("Reto 05 - Poligono")
+	fmt.Println(poligonos.Execute(string(poligonos.TipoCuadrado), 2, 2))
 }
