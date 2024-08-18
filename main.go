@@ -8,6 +8,7 @@ import (
 	"github.com/gugliio/101-ejercicios-logica/fizzbuzz"
 	"github.com/gugliio/101-ejercicios-logica/poligonos"
 	"github.com/gugliio/101-ejercicios-logica/primos"
+	"github.com/gugliio/101-ejercicios-logica/ratio"
 )
 
 func main() {
@@ -25,4 +26,8 @@ func main() {
 
 	fmt.Println("Reto 05 - Poligono")
 	fmt.Println(poligonos.Execute(string(poligonos.TipoCuadrado), 2, 2))
+
+	fmt.Println("Reto 06 - Ratio")
+	url := "https://raw.githubusercontent.com/mouredevmouredev/master/mouredev_github_profile.png"
+	fmt.Println(ratio.Execute(url))
 }
