@@ -13,3 +13,5 @@
 [# 06 - Ratio](https://github.com/gugliio/101-ejercicios-logica/pull/6/files)
 
 [# 07 - Reverse String](https://github.com/gugliio/101-ejercicios-logica/pull/7/files)
+
+[# 08 - Words Counter](https://github.com/gugliio/101-ejercicios-logica/pull/8/files)
