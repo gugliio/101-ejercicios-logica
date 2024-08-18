@@ -9,6 +9,7 @@ import (
 	"github.com/gugliio/101-ejercicios-logica/poligonos"
 	"github.com/gugliio/101-ejercicios-logica/primos"
 	"github.com/gugliio/101-ejercicios-logica/ratio"
+	"github.com/gugliio/101-ejercicios-logica/revert"
 )
 
 func main() {
@@ -30,4 +31,7 @@ func main() {
 	fmt.Println("Reto 06 - Ratio")
 	url := "https://raw.githubusercontent.com/mouredevmouredev/master/mouredev_github_profile.png"
 	fmt.Println(ratio.Execute(url))
+
+	fmt.Println("Reto 07 - Reverse string")
+	fmt.Println(revert.Execute("Hello"))
 }
