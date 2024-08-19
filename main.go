@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	"github.com/gugliio/101-ejercicios-logica/anagrama"
+	"github.com/gugliio/101-ejercicios-logica/decimaltobinary"
 	"github.com/gugliio/101-ejercicios-logica/fibonacci"
 	"github.com/gugliio/101-ejercicios-logica/fizzbuzz"
 	"github.com/gugliio/101-ejercicios-logica/poligonos"
@@ -38,4 +39,7 @@ func main() {
 
 	fmt.Println("Reto 08 - Word counter")
 	fmt.Println(wordcounter.Execute("Hello World", "World"))
+
+	fmt.Println("Reto 09 - Decimal to binary")
+	fmt.Println(decimaltobinary.Execute(10))
 }
