@@ -17,3 +17,5 @@
 [# 08 - Words Counter](https://github.com/gugliio/101-ejercicios-logica/pull/8/files)
 
 [# 09 - Decimal a Binario](https://github.com/gugliio/101-ejercicios-logica/pull/9/files)
+
+[# 10 - Codigo Morse](https://github.com/gugliio/101-ejercicios-logica/pull/10/files)
