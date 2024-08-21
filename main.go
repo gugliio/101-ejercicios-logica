@@ -7,6 +7,7 @@ import (
 	"github.com/gugliio/101-ejercicios-logica/decimaltobinary"
 	"github.com/gugliio/101-ejercicios-logica/fibonacci"
 	"github.com/gugliio/101-ejercicios-logica/fizzbuzz"
+	"github.com/gugliio/101-ejercicios-logica/morsecode"
 	"github.com/gugliio/101-ejercicios-logica/poligonos"
 	"github.com/gugliio/101-ejercicios-logica/primos"
 	"github.com/gugliio/101-ejercicios-logica/ratio"
@@ -42,4 +43,7 @@ func main() {
 
 	fmt.Println("Reto 09 - Decimal to binary")
 	fmt.Println(decimaltobinary.Execute(10))
+
+	fmt.Println("Reto 10 - Codigo Morse")
+	fmt.Println(morsecode.Execute("Ariel Ortega"))
 }
