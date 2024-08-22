@@ -5,6 +5,7 @@ import (
 
 	"github.com/gugliio/101-ejercicios-logica/anagrama"
 	"github.com/gugliio/101-ejercicios-logica/decimaltobinary"
+	"github.com/gugliio/101-ejercicios-logica/expequilibradas"
 	"github.com/gugliio/101-ejercicios-logica/fibonacci"
 	"github.com/gugliio/101-ejercicios-logica/fizzbuzz"
 	"github.com/gugliio/101-ejercicios-logica/morsecode"
@@ -46,4 +47,7 @@ func main() {
 
 	fmt.Println("Reto 10 - Codigo Morse")
 	fmt.Println(morsecode.Execute("Ariel Ortega"))
+
+	fmt.Println("*Reto 11 - Expresiones equilibradas")
+	fmt.Println(expequilibradas.Execute("{}"))
 }
