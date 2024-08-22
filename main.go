@@ -12,6 +12,7 @@ import (
 	"github.com/gugliio/101-ejercicios-logica/poligonos"
 	"github.com/gugliio/101-ejercicios-logica/primos"
 	"github.com/gugliio/101-ejercicios-logica/ratio"
+	"github.com/gugliio/101-ejercicios-logica/removechars"
 	"github.com/gugliio/101-ejercicios-logica/revert"
 	"github.com/gugliio/101-ejercicios-logica/wordcounter"
 )
@@ -50,4 +51,7 @@ func main() {
 
 	fmt.Println("*Reto 11 - Expresiones equilibradas")
 	fmt.Println(expequilibradas.Execute("{}"))
+
+	fmt.Println("Reto 12 - Expresiones equilibradas")
+	fmt.Println(removechars.Execute("perro", "gatos"))
 }
