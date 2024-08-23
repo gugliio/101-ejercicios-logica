@@ -9,6 +9,7 @@ import (
 	"github.com/gugliio/101-ejercicios-logica/fibonacci"
 	"github.com/gugliio/101-ejercicios-logica/fizzbuzz"
 	"github.com/gugliio/101-ejercicios-logica/morsecode"
+	"github.com/gugliio/101-ejercicios-logica/palindrome"
 	"github.com/gugliio/101-ejercicios-logica/poligonos"
 	"github.com/gugliio/101-ejercicios-logica/primos"
 	"github.com/gugliio/101-ejercicios-logica/ratio"
@@ -52,6 +53,9 @@ func main() {
 	fmt.Println("*Reto 11 - Expresiones equilibradas")
 	fmt.Println(expequilibradas.Execute("{}"))
 
-	fmt.Println("Reto 12 - Expresiones equilibradas")
+	fmt.Println("Reto 12 - Remove chars")
 	fmt.Println(removechars.Execute("perro", "gatos"))
+
+	fmt.Println("Reto 13 - Palindrome")
+	fmt.Println(palindrome.Execute("perro"))
 }

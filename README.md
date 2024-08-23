@@ -19,3 +19,9 @@
 [# 09 - Decimal a Binario](https://github.com/gugliio/101-ejercicios-logica/pull/9/files)
 
 [# 10 - Codigo Morse](https://github.com/gugliio/101-ejercicios-logica/pull/10/files)
+
+[# 11 - Expresiones equilibradas](https://github.com/gugliio/101-ejercicios-logica/pull/11/files)
+
+[# 12 - Remove characters](https://github.com/gugliio/101-ejercicios-logica/pull/12/files)
+
+[# 13 - Is a Palindrome](https://github.com/gugliio/101-ejercicios-logica/pull/13/files)
