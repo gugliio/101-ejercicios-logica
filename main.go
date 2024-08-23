@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 
+	"github.com/gugliio/101-ejercicios-logica/amstrong"
 	"github.com/gugliio/101-ejercicios-logica/anagrama"
 	"github.com/gugliio/101-ejercicios-logica/decimaltobinary"
 	"github.com/gugliio/101-ejercicios-logica/expequilibradas"
@@ -62,4 +63,7 @@ func main() {
 
 	fmt.Println("Reto 14 - Factorial")
 	fmt.Println(factorial.Execute(10))
+
+	fmt.Println("Reto 15 - Amstrong Number")
+	fmt.Println(amstrong.Execute(50))
 }

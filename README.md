@@ -27,3 +27,5 @@
 [# 13 - Is a Palindrome](https://github.com/gugliio/101-ejercicios-logica/pull/13/files)
 
 [# 14 - Factorial](https://github.com/gugliio/101-ejercicios-logica/pull/14/files)
+
+[# 15 - Amstrong Number](https://github.com/gugliio/101-ejercicios-logica/pull/15/files)
