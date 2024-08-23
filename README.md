@@ -31,3 +31,5 @@
 [# 15 - Amstrong Number](https://github.com/gugliio/101-ejercicios-logica/pull/15/files)
 
 [# 16 - Days Counter](https://github.com/gugliio/101-ejercicios-logica/pull/16/files)
+
+[# 17 - Uppercase first letter per word](https://github.com/gugliio/101-ejercicios-logica/pull/17/files)

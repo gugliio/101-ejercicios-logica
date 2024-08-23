@@ -18,6 +18,7 @@ import (
 	"github.com/gugliio/101-ejercicios-logica/ratio"
 	"github.com/gugliio/101-ejercicios-logica/removechars"
 	"github.com/gugliio/101-ejercicios-logica/revert"
+	"github.com/gugliio/101-ejercicios-logica/uppercase"
 	"github.com/gugliio/101-ejercicios-logica/wordcounter"
 )
 
@@ -70,4 +71,7 @@ func main() {
 
 	fmt.Println("Reto 16 - Days Counter")
 	fmt.Println(daycounter.Execute("25/05/1990", "09/12/2018"))
+
+	fmt.Println("Reto 17 - Uppercase")
+	fmt.Println(uppercase.Execute("hello world"))
 }
