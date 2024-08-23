@@ -6,6 +6,7 @@ import (
 	"github.com/gugliio/101-ejercicios-logica/anagrama"
 	"github.com/gugliio/101-ejercicios-logica/decimaltobinary"
 	"github.com/gugliio/101-ejercicios-logica/expequilibradas"
+	"github.com/gugliio/101-ejercicios-logica/factorial"
 	"github.com/gugliio/101-ejercicios-logica/fibonacci"
 	"github.com/gugliio/101-ejercicios-logica/fizzbuzz"
 	"github.com/gugliio/101-ejercicios-logica/morsecode"
@@ -58,4 +59,7 @@ func main() {
 
 	fmt.Println("Reto 13 - Palindrome")
 	fmt.Println(palindrome.Execute("perro"))
+
+	fmt.Println("Reto 14 - Factorial")
+	fmt.Println(factorial.Execute(10))
 }

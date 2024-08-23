@@ -25,3 +25,5 @@
 [# 12 - Remove characters](https://github.com/gugliio/101-ejercicios-logica/pull/12/files)
 
 [# 13 - Is a Palindrome](https://github.com/gugliio/101-ejercicios-logica/pull/13/files)
+
+[# 14 - Factorial](https://github.com/gugliio/101-ejercicios-logica/pull/14/files)
