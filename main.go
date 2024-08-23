@@ -5,6 +5,7 @@ import (
 
 	"github.com/gugliio/101-ejercicios-logica/amstrong"
 	"github.com/gugliio/101-ejercicios-logica/anagrama"
+	"github.com/gugliio/101-ejercicios-logica/daycounter"
 	"github.com/gugliio/101-ejercicios-logica/decimaltobinary"
 	"github.com/gugliio/101-ejercicios-logica/expequilibradas"
 	"github.com/gugliio/101-ejercicios-logica/factorial"
@@ -66,4 +67,7 @@ func main() {
 
 	fmt.Println("Reto 15 - Amstrong Number")
 	fmt.Println(amstrong.Execute(50))
+
+	fmt.Println("Reto 16 - Days Counter")
+	fmt.Println(daycounter.Execute("25/05/1990", "09/12/2018"))
 }

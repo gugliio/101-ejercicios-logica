@@ -29,3 +29,5 @@
 [# 14 - Factorial](https://github.com/gugliio/101-ejercicios-logica/pull/14/files)
 
 [# 15 - Amstrong Number](https://github.com/gugliio/101-ejercicios-logica/pull/15/files)
+
+[# 16 - Days Counter](https://github.com/gugliio/101-ejercicios-logica/pull/16/files)
