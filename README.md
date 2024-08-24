@@ -33,3 +33,5 @@
 [# 16 - Days Counter](https://github.com/gugliio/101-ejercicios-logica/pull/16/files)
 
 [# 17 - Uppercase first letter per word](https://github.com/gugliio/101-ejercicios-logica/pull/17/files)
+
+[# 18 - Run Race](https://github.com/gugliio/101-ejercicios-logica/pull/18/files)
