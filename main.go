@@ -18,6 +18,7 @@ import (
 	"github.com/gugliio/101-ejercicios-logica/ratio"
 	"github.com/gugliio/101-ejercicios-logica/removechars"
 	"github.com/gugliio/101-ejercicios-logica/revert"
+	"github.com/gugliio/101-ejercicios-logica/runrace"
 	"github.com/gugliio/101-ejercicios-logica/uppercase"
 	"github.com/gugliio/101-ejercicios-logica/wordcounter"
 )
@@ -74,4 +75,7 @@ func main() {
 
 	fmt.Println("Reto 17 - Uppercase")
 	fmt.Println(uppercase.Execute("hello world"))
+
+	fmt.Println("Reto 18 - Run Race")
+	fmt.Println(runrace.Execute([]string{"run", "jump"}, []string{"_", "|"}))
 }
