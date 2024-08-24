@@ -35,3 +35,5 @@
 [# 17 - Uppercase first letter per word](https://github.com/gugliio/101-ejercicios-logica/pull/17/files)
 
 [# 18 - Run Race](https://github.com/gugliio/101-ejercicios-logica/pull/18/files)
+
+[# 19 - Three in a Row](https://github.com/gugliio/101-ejercicios-logica/pull/19/files)
