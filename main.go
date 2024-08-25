@@ -5,6 +5,7 @@ import (
 
 	"github.com/gugliio/101-ejercicios-logica/amstrong"
 	"github.com/gugliio/101-ejercicios-logica/anagrama"
+	"github.com/gugliio/101-ejercicios-logica/calculatortxt"
 	"github.com/gugliio/101-ejercicios-logica/daycounter"
 	"github.com/gugliio/101-ejercicios-logica/decimaltobinary"
 	"github.com/gugliio/101-ejercicios-logica/expequilibradas"
@@ -90,4 +91,7 @@ func main() {
 
 	fmt.Println("Reto 21 - Sleep time")
 	sleeptime.Execute(2, 1, 2)
+
+	fmt.Println("Reto 22 - Calculator txt")
+	fmt.Println(calculatortxt.Execute("./calculatortxt/calculator.txt"))
 }

@@ -29,6 +29,11 @@ func Test_Word_Counter(t *testing.T) {
 			word:     "world",
 			expected: 1,
 		},
+		"given input on upper case and the word with camel case should return 1": {
+			input:    "Hello World",
+			word:     "World",
+			expected: 1,
+		},
 	}
 	for name, tc := range tt {
 		t.Run(name, func(t *testing.T) {

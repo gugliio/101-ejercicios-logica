@@ -14,13 +14,13 @@ const (
 	_secondInMiliseconds = 1000
 )
 
-func Execute(days, hour, minute, seconds int) time.Duration {
+func Execute(days, hour, minute, seconds int) int64 {
 	daysM := daysToMilliseconds(days)
 	hoursM := hoursToMilliseconds(hour)
 	minutesM := minutesToMilliseconds(minute)
 	secondsM := secondsToMilliseconds(seconds)
 
-	return daysM + hoursM + minutesM + secondsM
+	return (daysM + hoursM + minutesM + secondsM).Milliseconds()
 }
 
 func daysToMilliseconds(days int) time.Duration {
