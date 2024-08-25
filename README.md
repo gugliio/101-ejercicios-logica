@@ -41,3 +41,5 @@
 [# 20 - Time converter](https://github.com/gugliio/101-ejercicios-logica/pull/20/files)
 
 [# 21 - Time sleep](https://github.com/gugliio/101-ejercicios-logica/pull/21/files)
+
+[# 22 - Calculadora .txt](https://github.com/gugliio/101-ejercicios-logica/pull/22/files)

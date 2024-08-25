@@ -20,7 +20,7 @@ func Execute(input, word string) int {
 	for _, inputWord := range inputAsSlice {
 		inputWord = removeAccents(inputWord)
 		inputWord = removeChars(inputWord)
-		if strings.ToLower(inputWord) == word {
+		if strings.ToLower(inputWord) == strings.ToLower(word) {
 			wordCounter++
 		}
 	}
