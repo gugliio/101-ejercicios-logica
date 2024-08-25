@@ -37,3 +37,5 @@
 [# 18 - Run Race](https://github.com/gugliio/101-ejercicios-logica/pull/18/files)
 
 [# 19 - Three in a Row](https://github.com/gugliio/101-ejercicios-logica/pull/19/files)
+
+[# 20 - Time converter](https://github.com/gugliio/101-ejercicios-logica/pull/20/files)
