@@ -19,6 +19,7 @@ import (
 	"github.com/gugliio/101-ejercicios-logica/removechars"
 	"github.com/gugliio/101-ejercicios-logica/revert"
 	"github.com/gugliio/101-ejercicios-logica/runrace"
+	"github.com/gugliio/101-ejercicios-logica/sleeptime"
 	"github.com/gugliio/101-ejercicios-logica/threeinarow"
 	"github.com/gugliio/101-ejercicios-logica/timeconverter"
 	"github.com/gugliio/101-ejercicios-logica/uppercase"
@@ -86,4 +87,7 @@ func main() {
 
 	fmt.Println("Reto 20 - Time converter")
 	fmt.Println(timeconverter.Execute(1, 2, 3, 4))
+
+	fmt.Println("Reto 21 - Sleep time")
+	sleeptime.Execute(2, 1, 2)
 }
