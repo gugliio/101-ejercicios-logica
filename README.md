@@ -43,3 +43,5 @@
 [# 21 - Time sleep](https://github.com/gugliio/101-ejercicios-logica/pull/21/files)
 
 [# 22 - Calculadora .txt](https://github.com/gugliio/101-ejercicios-logica/pull/22/files)
+
+[# 23 - Conjuntos](https://github.com/gugliio/101-ejercicios-logica/pull/23/files)
