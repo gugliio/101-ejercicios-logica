@@ -13,6 +13,7 @@ import (
 	"github.com/gugliio/101-ejercicios-logica/factorial"
 	"github.com/gugliio/101-ejercicios-logica/fibonacci"
 	"github.com/gugliio/101-ejercicios-logica/fizzbuzz"
+	"github.com/gugliio/101-ejercicios-logica/maxcomun"
 	"github.com/gugliio/101-ejercicios-logica/morsecode"
 	"github.com/gugliio/101-ejercicios-logica/palindrome"
 	"github.com/gugliio/101-ejercicios-logica/poligonos"
@@ -98,4 +99,8 @@ func main() {
 
 	fmt.Println("Reto 23 - Conjuntos")
 	fmt.Println(conjuntos.Execute([]string{"1", "2", "3", "4"}, []string{"1", "2", "5", "6"}, true))
+
+	fmt.Println("Reto 24 - MCM y MCD")
+	fmt.Println(maxcomun.ExecuteMDC(10, 20))
+	fmt.Println(maxcomun.ExecuteMCM(20, 10))
 }
