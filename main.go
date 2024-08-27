@@ -13,6 +13,7 @@ import (
 	"github.com/gugliio/101-ejercicios-logica/factorial"
 	"github.com/gugliio/101-ejercicios-logica/fibonacci"
 	"github.com/gugliio/101-ejercicios-logica/fizzbuzz"
+	"github.com/gugliio/101-ejercicios-logica/iterationmaster"
 	"github.com/gugliio/101-ejercicios-logica/maxcomun"
 	"github.com/gugliio/101-ejercicios-logica/morsecode"
 	"github.com/gugliio/101-ejercicios-logica/palindrome"
@@ -103,4 +104,7 @@ func main() {
 	fmt.Println("Reto 24 - MCM y MCD")
 	fmt.Println(maxcomun.ExecuteMDC(10, 20))
 	fmt.Println(maxcomun.ExecuteMCM(20, 10))
+
+	fmt.Println("Reto 25 - Iteration master...")
+	iterationmaster.Execute()
 }
