@@ -45,3 +45,5 @@
 [# 22 - Calculadora .txt](https://github.com/gugliio/101-ejercicios-logica/pull/22/files)
 
 [# 23 - Conjuntos](https://github.com/gugliio/101-ejercicios-logica/pull/23/files)
+
+[# 24 - MCM y MCD](https://github.com/gugliio/101-ejercicios-logica/pull/24/files)
