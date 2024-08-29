@@ -17,6 +17,7 @@ import (
 	"github.com/gugliio/101-ejercicios-logica/maxcomun"
 	"github.com/gugliio/101-ejercicios-logica/morsecode"
 	"github.com/gugliio/101-ejercicios-logica/palindrome"
+	"github.com/gugliio/101-ejercicios-logica/piedrapapeltijera"
 	"github.com/gugliio/101-ejercicios-logica/poligonos"
 	"github.com/gugliio/101-ejercicios-logica/primos"
 	"github.com/gugliio/101-ejercicios-logica/ratio"
@@ -107,4 +108,7 @@ func main() {
 
 	fmt.Println("Reto 25 - Iteration master...")
 	iterationmaster.Execute()
+
+	fmt.Println("Reto 26 - Piedra Papel o tijera")
+	fmt.Println(piedrapapeltijera.Execute("piedra", "papel"))
 }
