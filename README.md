@@ -51,3 +51,5 @@
 [# 25 - Iteration master](https://github.com/gugliio/101-ejercicios-logica/pull/25/files)
 
 [# 26 - Piedra papel o tijera](https://github.com/gugliio/101-ejercicios-logica/pull/26/files)
+
+[# 27 - Cuadrado triangulo 2D](https://github.com/gugliio/101-ejercicios-logica/pull/27/files)
